@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utsav</h1>
+- Hi 👋, I'm Utsav
 - 👀 I’m interested in Operations Research, Supply chain, Manufacturing and Logistics.
 - 🎨 I am very passionate about music and art. 
 - 🌱 I did my M.S. in Industrial Engineering, focusing on Operations Research and Advanced Analytics from UIUC.
